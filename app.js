@@ -1,6 +1,5 @@
-//console.log(dados);
-
-let section = document.getElementById("resultados-pesquisa");
+function pesquisar() {
+    let section = document.getElementById("resultados-pesquisa");
 console.log(section);
 
 let resultados = ""
@@ -20,4 +19,6 @@ for(let dado of dados) {
 
 section.innerHTML = resultados
 
+}
+//console.log(dados);
 
