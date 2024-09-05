@@ -1,1 +1,6 @@
-console.log(dados);
+//console.log(dados);
+
+let section = document.getElementById("resultados-pesquisa");
+console.log(section);
+
+
