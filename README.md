@@ -1,4 +1,3 @@
-```markdown
 ## Como Funciona Essa Maravilhosa Máquina de Pesquisar Times da NFL! 
 
 **Para que serve?**
