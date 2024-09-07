@@ -1,4 +1,4 @@
-## Como Funciona Essa Maravilhosa Máquina de Pesquisar Times da NFL! 
+## Como Funciona Essa Maravilhosa Máquina de Pesquisar Times da NFL! - Imersão DEV com Google Gemini.
 
 **Para que serve?**
 
